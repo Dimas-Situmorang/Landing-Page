@@ -296,6 +296,7 @@ footer p {
     
     .about .box-about {
         flex-direction: column-reverse;
+        font-size: 20px;
     }
     
     .about .box-about .box:nth-child(1) {
